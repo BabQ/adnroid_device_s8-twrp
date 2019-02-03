@@ -40,7 +40,7 @@ TARGET_RECOVERY_FSTAB := device/s8/s8/recovery/etc/twrp.fstab
 BOARD_SUPPRESS_SECURE_ERASE := true
 RECOVERY_GRAPHICS_USE_LINELENGTH := true
 
-TW_THEME := portrait_mdpi
+TW_THEME := watch_mdpi
 
 RECOVERY_SDCARD_ON_DATA := true
 TW_INTERNAL_STORAGE_PATH := "/data/media"
