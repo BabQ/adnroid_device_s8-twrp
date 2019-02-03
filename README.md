@@ -1,4 +1,5 @@
 TWRP DEVICE TREE FOR S8
+
 | Feature                 | Specification                     |
 |:-----------------------:|:---------------------------------:|
 | CPU                     | Quad-Core 1.5GHz Cortex-A53       |
